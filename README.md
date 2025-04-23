@@ -18,7 +18,8 @@ config = {
     resetTime    = 5000, -- ms to clear count after last jump
     ragdollTime  = 3000, -- ms ragdoll lasts
     debug        = true, -- enable/disable debug logs
-}```
+}
+```
 
 
 
