@@ -1,9 +1,9 @@
 fx_version 'cerulean'
-game 'gta5'
+game       'gta5'
 
-author 'Heimel'
-description 'Jump Limit Script for FiveM - Heimel_JumpLimit'
-version '1.0.0'
+author      'Heimel, edited by Vein'
+description 'Limits consecutive player jumps and ragdolls when exceeded.'
+version     '1.1.0'
 
 shared_script 'config.lua'
 server_script 'server.lua'
